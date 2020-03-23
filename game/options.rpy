@@ -30,6 +30,9 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+Created by omn0mn0m and vanacan.
+
+Character Sprites and Arts by Noraneko Games.
 """)
 
 
@@ -142,7 +145,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "KnifusandWaifus-1583971385"
+define config.save_directory = "KnifusandWaifus-1584858697"
 
 
 ## Icon ########################################################################
