@@ -60,7 +60,7 @@ label start:
 
     miki "Hey there, stranger, what's your name?"
 
-    $ player_name = renpy.input("Weird of your friend to ask your name, but go ahead and tell her anyways:")
+    $ player_name = renpy.input("Weird of your friend to ask your name, but go ahead and tell her anyways (Type your name):"
     $ player_name = player_name.strip()
 
     player "Did someone steal your memories or something? You should know it's [player_name]..."
